@@ -1,4 +1,8 @@
 _repo: Novelle-e-ghiribizzi_46867
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46867-h/images/cover.jpg
 creator:
   author:
     agent_name: Fanfani, Pietro
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44003
     wikipedia: http://it.wikipedia.org/wiki/Pietro_Fanfani
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46867#Novelle-e-ghiribizzi
 gutenberg_bookshelf: IT Racconti
 gutenberg_issued: '2014-09-15'
 gutenberg_type: Text
